@@ -11,9 +11,6 @@ Welcome to the **Guitar Store Management System** — a C++ OOP project designed
 - 🤝 **Friend Functions** to calculate total store value
 - 🖨️ Terminal output using **ANSI bold formatting**
 
-## 📁 Project Structure
-
-
 ## 🛠️ Requirements
 
 - C++11 or higher
